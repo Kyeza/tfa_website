@@ -1,2 +1,2 @@
-# tfa_website
+# Together For Africa Website
 NGO static website
